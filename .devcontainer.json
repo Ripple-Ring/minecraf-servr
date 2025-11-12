@@ -1,0 +1,14 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "Ripple-Ring/evil-private-mnecraf-repo": {
+          "permissions": {
+            "contents": "read",
+	    "packages": "read"
+          }
+        }
+      }
+    }
+  }
+}
